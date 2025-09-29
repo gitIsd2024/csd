@@ -29,7 +29,7 @@ Homestead.json
 .phpactor.json
 auth.json
 
-/37th/vendor/*
+
 /37th/vendor2/*
 /37th/public/attachment/*
 /37th/public/endorsement_letter/*
